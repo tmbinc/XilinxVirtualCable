@@ -16,5 +16,5 @@ This capability helps facilitate hardware debug for designs that:
 
 For more information on the XVC protocol see 
 * XVC 1.0 Protocol
-** [XVC 1.0 Protocol README](README_XVC_v1_0.txt) 
+  * [XVC 1.0 Protocol README](README_XVC_v1_0.txt) 
 

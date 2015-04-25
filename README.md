@@ -11,3 +11,20 @@ This capability helps facilitate hardware debug for designs that:
 * Debug via Vivado Logic Analyzer IDE exactly as if directly connected to design via standard JTAG or parallel cable
 * Zynq®-7000 demonstration with Application Note and Reference Designs available in XAPP1251 - Xilinx Virtual Cable Running on Zynq-7000 Using the PetaLinux Tools
 * Extensible to allow for safe, secure connections
+
+# XVC 1.0 Protocol
+The XVC protocol consists of the following three messages
+
+* getinfo:
+* settck:[period in ns]
+* shift:[num bits][tms vector][tdi vector]
+
+## getinfo:
+The **getinfo:** command returns details of the XVC protocol supported by the 
+running server. In addition the maximum shift vector length supported by the 
+server returned. This is typically the first command issued by a client upon 
+connecting with a server.
+
+## settck:
+
+## shift:

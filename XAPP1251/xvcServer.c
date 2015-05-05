@@ -1,6 +1,6 @@
-/*(c) Copyright [first_year] – [latest_year] Xilinx, Inc. All rights reserved.
+/*(c) Copyright 2014 - 2015 Xilinx, Inc. All rights reserved.
  *
- * This file contains confidential and proprietary information
+ * This file contains proprietary information
  * of Xilinx, Inc. and is protected under U.S. and
  * international copyright and other intellectual property
  * laws.

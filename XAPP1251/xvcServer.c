@@ -1,4 +1,5 @@
-/*(c) Copyright 2014 - 2015 Xilinx, Inc. All rights reserved.
+/* Copyright(c) 2011-2015, Xilinx Inc.
+ * All rights reserved
  *
  * This file contains proprietary information
  * of Xilinx, Inc. and is protected under U.S. and

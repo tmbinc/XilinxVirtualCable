@@ -17,4 +17,5 @@ This capability helps facilitate hardware debug for designs that:
 For more information on the XVC protocol see 
 * XVC 1.0 Protocol
   * [XVC 1.0 Protocol README](README_XVC_v1_0.txt) 
+* [XAPP1251 : Xilinx Virtual Cable Running on Zynq-7000 Using the PetaLinux Tools][http://www.xilinx.com/support/documentation/application_notes/xapp1251-xvc-zynq-petalinux.pdf]
 
